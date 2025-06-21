@@ -99,15 +99,18 @@ The system uses a **Vision Encoder-Decoder** architecture:
 ## 📊 Example Outputs
 
 ### Tennis Player
-![Tennis Player](output_images/tennis_output.png)
+![Tennis Player]![image](https://github.com/user-attachments/assets/9400a855-ed24-4c05-950c-d0733c743321)
+
 **Caption**: "A tennis player in action on the court"
 
 ### Swimming
-![Swimming](output_images/swimming_output.png)
+![Swimming]![image](https://github.com/user-attachments/assets/aa88652c-87ad-491c-9a85-b6a03bd8caef)
+
 **Caption**: "A person swimming in a pool"
 
 ### Kids Playing
-![Kids Playing](output_images/kids_playing_output.png)
+![Kids Playing]![image](https://github.com/user-attachments/assets/11e9174f-b93e-40c5-a0b0-79ce95da1e16)
+
 **Caption**: "Children playing together in a playground"
 
 ## ⚙️ Configuration
@@ -188,7 +191,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or contributions:
 - Open an issue on GitHub
-- Contact: [your-email@example.com]
+- Contact: [inturi.nithin2004@gmail.com]
 
 ---
 

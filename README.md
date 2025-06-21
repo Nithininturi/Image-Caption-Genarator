@@ -32,7 +32,7 @@ pip install huggingface_hub
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Nithininturi/Image-Caption-Genarator.git
 cd DL
 ```
 
